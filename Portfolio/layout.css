@@ -1,0 +1,244 @@
+/* ------------------Menu Nav------------------*/
+
+
+.nav-menu {
+    position: fixed;
+    margin-top: 0%;
+    padding-left: 40%;
+    z-index: 999;
+
+}
+
+/*-----------------------Main Section------------*/
+
+.container-vectors {
+   /* background-color: aqua;*/
+    width: 116%;
+    margin-bottom: 80%; 
+    position: absolute;
+    margin-top: 150px;
+    margin-left: -10%;
+    overflow-x: hidden;
+       
+}
+
+.vector {
+    width: 98%;
+    overflow: hidden;
+    min-width: 100vh;
+    overflow-x: hidden;
+    
+    
+}
+
+.vector22 {
+    width: 98%;
+    overflow: hidden;
+    min-width: 100vh;
+    overflow-x: hidden;
+    margin-top: 80px;
+}
+
+.main-image {
+    margin-left: 38%;
+    margin-top: 250px;
+    position: absolute;
+    width: 50%;
+}
+
+.main-image2 {
+    width: 50%;
+
+}
+
+.titles-container {
+    position: absolute;
+    margin-left: 26%;
+    margin-top: 670px;
+    width: 50%;
+
+}
+
+.social-container {
+    margin-left: 31%;
+    position: absolute;
+    margin-top: 890px;
+    display: flex;
+    display: inline-flex;
+    justify-items: auto;
+    justify-content: space-evenly;
+    width: 40%;
+    height: 40%;
+    flex-wrap: wrap;
+
+   
+}
+
+.paragraph {
+    width: 80%;
+    text-align: center;
+    padding-left: 21%;
+    padding-top: 1600px;
+}
+
+.round-vector1 {
+    margin-left: 90%;
+    position: absolute;
+    overflow: hidden;
+    overflow-x: hidden;
+
+}
+
+.control-overflow {
+    overflow-x: hidden;
+}
+
+.round-vector2 {
+    margin-left: -5%;
+    margin-top: 800px;
+    position: absolute;
+    overflow-x: hidden;
+}
+
+/*--------------------Element Box----------------------*/
+
+.element-container {
+    width: 40%;
+    display: flex;
+    margin-top: 120px;
+    justify-content: space-evenly;
+    position: absolute;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 31%;
+    gap: 200px;
+}
+
+.interactive-title1 {
+    margin-top: 255px;
+    height: auto;
+    margin-left: 33%;
+    max-width: 40%;
+    display: flex;
+}
+
+.interactive-title2 {
+    margin-top: -1%;
+    height: auto;
+    margin-left: 61%;
+    max-width: 40%;
+
+}
+
+.interactive-title3 {
+    margin-top: 310px;
+    height: auto;
+    margin-left: 33%;
+    max-width: 40%;
+    display: flex;
+
+}
+
+.interactive-title4 {
+    margin-top: -1%;
+    height: auto;
+    margin-left: 61%;
+    max-width: 40%;
+
+}
+
+
+/*.titles1 {
+   display: flexbox;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}*/
+
+.this-experiencia {
+    font-size: 280%;
+    color: #ffffff;
+    margin-top: 220px;
+    text-align: center;
+}
+
+.this4 {
+    width: 30%;
+    margin-left: 31%;
+    margin-top: 640px;
+}
+
+table {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 40%;
+    width: 50%;
+    
+}
+
+.table-1st {
+    width: 300%;
+}
+
+.table-2nd {
+    width: 300%;
+}
+
+
+.this-portafolio {
+    font-size: 280%;
+    color: #ffffff;
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+.container-screenshots {
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    justify-content: space-evenly;
+    margin-left: 15%;
+
+}
+
+
+.container-contacto {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    gap: 10%;
+}
+
+.celular {
+    width: 50%;
+    margin-left: 21%; 
+    margin-top: 10px;
+
+}
+
+.email {
+    width: 50%;
+    margin-left: -20%;
+    margin-top: 8px;
+    
+}
+
+.container-last {
+    width: 50%;
+    display: flex;
+    margin-left: 31%;
+    justify-content: center;
+    display: inline-flex;
+    
+    
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    margin-top: 60px;
+}
+
+

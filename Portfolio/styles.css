@@ -1,0 +1,189 @@
+
+:root{
+    font-family: 'Rubik', sans-serif;
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #020404;
+    background-size: cover;
+    max-height: 100vh;
+    box-sizing: border-box;
+    
+    
+
+}
+
+
+/* ----------------------Navegacion--------------------- */
+
+
+a, li {
+    font-family: 'rubik';
+    color: #adadad;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-menu li{
+    display: flex;
+    display: inline-block;
+    padding: 30px 20px;  
+    margin-top: 0;
+   
+    
+}
+
+/*--------------------------full body-----------------------*/
+
+.white-words {
+    color: #ffffff;
+    text-align: center;
+    font-size: 340%;
+}
+
+.gray-words {
+    color: #adadad;
+    text-align: center;
+    font-size: 280%;
+    /*padding-bottom: 30px;*/
+    margin-bottom: 50%;
+}
+
+.social-button {
+    color: #adadad;
+    background-color: #020404;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    font-size: 50px;
+    text-align: center; 
+    border: none; 
+     
+}
+
+.social-image {
+    height: 40%;
+    color: #adadad;
+}
+
+.paragraph {
+    color: #adadad;
+    font-size: 140%;
+    text-align: justify;
+    margin-bottom: 150px;
+}
+
+.this2 {
+    color: #ffffff;
+    padding-bottom: 3%;
+    font-size: 170%;
+}
+
+.this3 {
+    color: #ffffff;
+    font-size: 205%;
+    margin-left: 10%;
+
+}
+
+
+/*-----------------Element Box-----------------*/
+
+.interactive-buttons {
+    background-color: #020404;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    align-items: center;
+    align-content: space-between;
+    border: none;
+}
+
+.interactive-title1 {
+    color: #adadad;
+    font-size: smaller;
+
+}
+
+.interactive-title2 {
+    color: #adadad;
+    font-size: smaller;
+    
+}
+
+.interactive-title3 {
+    color: #adadad;
+    font-size: smaller;
+}
+
+.interactive-title4 {
+    color: #adadad;
+    font-size: smaller;
+    
+}
+
+/*.this4 {
+    font-size: 150%;
+    color: #ffffff;
+    text-align: center;
+
+}*/
+
+/*-------------------Table-----------------*/
+
+
+.table-manage {
+
+    height: 100%;
+
+}
+
+table {
+    font-size: medium;
+    color: #adadad;
+    text-align: center;
+    
+}
+
+
+/*-- ---------Container Screenshots-----------*/
+
+.portafolio {
+    width: 30%;
+    height: 50%;
+    
+
+}
+
+
+.image-contacto {
+    width: 5%;
+    height: 5%;
+    color: #adadad;
+    
+}
+
+.celular {
+    color: #adadad;
+    font-size: small;
+}
+
+.email {
+    color: #adadad;
+    font-size: small;
+}
+
+.footer {
+    color: #adadad;
+    font-size: smaller;
+}
